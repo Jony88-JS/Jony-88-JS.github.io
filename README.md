@@ -1,4 +1,4 @@
-# Git-y-GitHub-platzi course
+# Git-and-GitHub-platzi course
 >>>Practice the Git and GitHub course in Platzi. 
 >>> Git Bash Code
 >>>>Git push
