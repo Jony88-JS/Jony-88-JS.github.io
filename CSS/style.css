@@ -29,3 +29,11 @@ body{
 #container h1 {
     font-size: 20px;
 }
+
+.footer{
+    width: 70%;
+    margin: 0 auto;
+    color: snow;
+    text-align: center;
+    background-color: sienna;
+}
