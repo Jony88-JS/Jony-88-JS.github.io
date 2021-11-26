@@ -4,35 +4,24 @@ body
     color: #333;
     text-align: center;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 35px;
     margin: 0;
     padding: 0;
-}
-
-
-#container
-{   
-    
-    width: 70%;
-    padding: 0;
-    text-align: left;
-    margin: 0 auto;
-    
 }
 
 #cabecera
 {
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-    font-size: 50px;
 }
 
 #cabecera #logo
 {
-    width: 45px;
+    width: 20px;
     vertical-align: middle;
 }
 
@@ -43,21 +32,25 @@ body
     font-size: 0.8em;
 }
 
-
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
 
 #container h1
 {
     font-size: 20px;
 }
-
-<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
-    font-size: 30px;
 }
-=======
+
 .footer{
     width: 70%;
     margin: 0 auto;
@@ -65,4 +58,3 @@ body
     text-align: center;
     background-color: sienna;
 }
->>>>>>> footer
