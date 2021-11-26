@@ -50,9 +50,19 @@ body
     font-size: 20px;
 }
 
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
     font-size: 30px;
 }
+=======
+.footer{
+    width: 70%;
+    margin: 0 auto;
+    color: snow;
+    text-align: center;
+    background-color: sienna;
+}
+>>>>>>> footer
